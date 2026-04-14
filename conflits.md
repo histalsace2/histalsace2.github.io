@@ -2,6 +2,7 @@
 
 ## Liste chronologique
 
+* -4300 Achenheim (Conflits armés et gestes guerriers au Néolithique)
 * -58 Bataille de l'Ochsenfeld
 * 21 Destruction de Helvetum (Ehl)
 * 40 Destruction de Helvetum (Ehl)
@@ -36,6 +37,7 @@
 * 1246 Prise d'Obernai par l'évêque de Strasbourg
 * 1246 Siège de Landser par Mulhouse
 * 1248 Prise de Kaysersberg par Mathieu de Lorraine
+* 1259 Rodolphe de Habsbourg à Colmar, Mulhouse, Basse-Alsace
 * 1260 Prise de Kaysersberg par l'évêque de Strasbourg
 * 1261 Prise de Kaysersberg par Rodolphe de Habsbourg
 * 1261 Prise du Chateau de Breuschwickersheim par Strasbourg
@@ -50,7 +52,9 @@
 * 1284 Prise du chateau d'Eckerich
 * 1284 Destruction du chateau de l'Ochsenstein
 * 1284 Destruction du Staufenberg par Conrad-Werner de Hattstatt
+* 1284 Tile Kolup assiège Colmar
 * 1289 Siège du chateau de Girsberg par Conrad de Lichtenberg Evèque de Strasbourg
+* 1290 Fin de la guerre entre les Lichtenberg et la Lorraine dans le val de lièpvre
 * 1290-1291 Siège du chateau de Gigersbourg par Colmar
 * 1292 Chatau du Bilstein attaqué par Othon d'Ochsenstein allié d'Adolphe de Nassau
 * 1293 Siège de l'Ortenbourg
@@ -65,12 +69,15 @@
 * 1298 Chatenois brulé par les habitants de Selestat
 * 1306 Siège du chateau de Gigersbourg par Henri-le-jeune de Rappoltstein
 * 1308 Mutzig 
-* 1314 La ville de Strasbourg Détruit Wingen et Hinsbourg
+* 1314 La ville de Strasbourg détruit Wingen et Hinsbourg
 * 1315 Chateau du Laubeck pris par l'évêque de Strasbourg
+* 1330 Colmar assiégé par Otho de Habsbourg
 * 1331 Population de Benfeld massacrée par les troupes du duc de Wurtemberg
+* 1331 Jean d'Eckerick et le duc de Lorraine entrent en guerre contre le comte de Bar, ravagent le val de lièpvre
 * 1332 Destruction du chateau du vieux Windstein par Strasbourg
 * 1333 Siège de Schwanau
 * 1336 Siège de Kaysersberg, Turckheim
+* 1338 Les villes imperiales en guerre contre les évèques de Strasbourg et de Bâle. Le val de lièpvre est ravagé
 * 1347 Guerre entre Frederic II de Swwewerden et Burkard de Fenetrange
 * 1363 Grandes companies
 * 1365 Arnaud de Cervole
@@ -85,7 +92,7 @@
 * 1386 Bataille de Sempach
 * 1386 Chateau de Loewenstein détruit par Johann de Lichtenberg
 * 1386 Brigandage à Pfaffenhoffen par des chevaliers pillards (Bulletin "Pays d'alsace" apr 1976)
-* 1388 Robert II du Palatinat
+* 1388 Robert II du Palatinat. Eckbolsheim est brulé.
 * 1388 Les troupes du Margrave de Bade mettent flamme Gambsheim
 * 1388 Pillage et incendie de Pfaffenhoffen par Strasbourg (lutte entre les Ochtenstein et Lichtenberg)
 * 1389 Brumath incendiée par Strasbourg et Haguenau
@@ -146,6 +153,7 @@
 * 1490 Pillage du chateau de Freundstein par les soultziens
 * 1493 Bundschuh (Blienschwiller)
 * 1499 Guerre de Souabe
+* 1516 Duc de Lorraine en conflit avec le seigneur de Geroldseck
 * 1517 Bundschuh en Foret-Noire
 * 1525 Guerre des paysans
 * 1547 Siège du chateau de Bilstein par les troupes imperiales (guerre de smalkalde)
@@ -159,6 +167,7 @@
 * 1587 Bischwiller prise d'assaut et incendie par une troupe de lansquenets en route vers la France
 * 1588 Dossenheim-Kochersberg?
 * 1589 Charles de Lorraine
+* 1592 Marquis de Durlach occupe le val de Lièpvre
 * 1592-1604 Guerre des evêques
 * 1610 Guerre de Succession de Juliers
 * 1618-1648 Guerre de trente ans 1620,1621,1622,1623,1629,1631,1632,1633,1634,1635,1636,1638,1642,1643  
@@ -180,4 +189,5 @@
 * http://chateauxalsaciens.free.fr/index.htm
 * https://fr.wikipedia.org/wiki/Bischwiller
 * https://fr.wikipedia.org/wiki/Dehlingen
+* https://fr.wikipedia.org/wiki/Li%C3%A8pvre
 * Nos Ancêtres les Alamans, Bernard Wittmann

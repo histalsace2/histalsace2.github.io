@@ -11,6 +11,7 @@
 * [Société pour la conservation des monuments historiques d'Alsace](https://gallica.bnf.fr/ark:/12148/cb34444200z/date)
 * [Bulletin du Cercle généalogique d'Alsace](https://gallica.bnf.fr/ark:/12148/cb34371149r/date)
 * [Pays d'Alsace (Revue de la SHASE)](https://gallica.bnf.fr/ark:/12148/cb36134321r/date.item)
+* [Archéologie Médiévale](https://journals.openedition.org/archeomed/)
 
 ## Sociétés d'Histoire
 
@@ -34,6 +35,7 @@
 ## Bibliographie
 
 * [Les Seigneurs, les Paysans et la Propriété Rurale en Alsace](https://gallica.bnf.fr/ark:/12148/bpt6k57861055.texteImage)
+* [Hertzog, Bernhard: Chronicon Alsatiae](https://www.digitale-sammlungen.de/de/view/bsb11196934?page=4,5)
 * ...
 
 ## Liens internet

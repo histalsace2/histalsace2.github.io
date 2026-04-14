@@ -3,8 +3,10 @@ Quelques notes et références sur l'histoire de l'Alsace
 
 [Conflits en Alsace](./conflits.md)
 
-[Histoire des villages](./villages.md)
+[Histoire des Villages](./villages.md)
 
-[Liens et bibliographie](./biblio.md)
+[La Lorraine : Allemande ou Française ?](./lorraine.md)
+
+[Liens et Bibliographie](./biblio.md)
 
 
