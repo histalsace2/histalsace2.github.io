@@ -2,7 +2,7 @@
 
 ## Liste chronologique
 
-* -4300 Achenheim (Conflits armés et gestes guerriers au Néolithique)
+* -4300 Achenheim
 * -58 Bataille de l'Ochsenfeld
 * 21 Destruction de Helvetum (Ehl)
 * 40 Destruction de Helvetum (Ehl)
@@ -39,11 +39,12 @@
 * 1248 Prise de Kaysersberg par Mathieu de Lorraine
 * 1259 Rodolphe de Habsbourg à Colmar, Mulhouse, Basse-Alsace
 * 1260 Prise de Kaysersberg par l'évêque de Strasbourg
-* 1261 Prise de Kaysersberg par Rodolphe de Habsbourg
-* 1261 Prise du Chateau de Breuschwickersheim par Strasbourg
-* 1262 Bataille de Hausbergen
-* 1262 Dachstein incendié par les Strasbourgeois
-* 1263 (6 janvier) les troupes de Strasbourg incendient Bischwiller
+* 1261-1263 Bellum Waltherianum
+  * 1261 Prise de Kaysersberg par Rodolphe de Habsbourg
+  * 1261 Prise du Chateau de Breuschwickersheim par Strasbourg
+  * 1262 Bataille de Hausbergen
+  * 1262 Dachstein incendié par les Strasbourgeois
+  * 1263 (6 janvier) les troupes de Strasbourg incendient Bischwiller
 * 1269 Rodolphe de Habsbourg, Strasbourg et Colmar assiègent le chateau de Reichenstein à Riquewihr
 * 1273 Rodolphe de Habsbourg dévaste la vallée de wihr-au-val
 * 1279 Attaque de Turckheim et wihr-au-val par les seigneurs de Girsberg
@@ -191,3 +192,4 @@
 * https://fr.wikipedia.org/wiki/Dehlingen
 * https://fr.wikipedia.org/wiki/Li%C3%A8pvre
 * Nos Ancêtres les Alamans, Bernard Wittmann
+* Conflits armés et gestes guerriers au Néolithique, Philippe Lefranc et Fanny Chenal
