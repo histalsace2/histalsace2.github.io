@@ -1,6 +1,3 @@
----
-title: HistAlsace - Histoire de l'alsace
----
 # Histoire de l'Alsace
 Quelques notes et références sur l'histoire de l'Alsace
 
