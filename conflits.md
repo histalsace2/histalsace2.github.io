@@ -53,7 +53,7 @@
 * 1284 Prise du chateau d'Eckerich
 * 1284 Destruction du chateau de l'Ochsenstein
 * 1284 Destruction du Staufenberg par Conrad-Werner de Hattstatt
-* 1284 Tile Kolup assiège Colmar
+* 1284 Rudolf de Habsbourg assiège Colmar qui avait fait allégeance à l'imposteur Tile Kolup 
 * 1289 Siège du chateau de Girsberg par Conrad de Lichtenberg Evèque de Strasbourg
 * 1290 Fin de la guerre entre les Lichtenberg et la Lorraine dans le val de lièpvre
 * 1290-1291 Siège du chateau de Gigersbourg par Colmar
