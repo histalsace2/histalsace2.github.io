@@ -24,6 +24,7 @@
 * 1002 Le duc de Souabe ravage Strasbourg
 * 1026 Ernest de Souabe à Eguisheim
 * 1027 Ernest II de Souabe contre Conrad II le Salique
+* 1082-1088 Hugues VII de Dagsbourg contre Henri IV, l'évêque Otto de Strasbourg et Frédéric I de Souabe
 * 1114 Frédéric le borgne contre les Eguisheim
 * 1123 Siège de Molsheim
 * 1130 L'évêque de Strasbourg remporte une victoire sur les Souabes à Gougenheim
@@ -53,7 +54,8 @@
 * 1284 Prise du chateau d'Eckerich
 * 1284 Destruction du chateau de l'Ochsenstein
 * 1284 Destruction du Staufenberg par Conrad-Werner de Hattstatt
-* 1284 Rudolf de Habsbourg assiège Colmar qui avait fait allégeance à l'imposteur Tile Kolup 
+* 1284 Rudolf de Habsbourg assiège Colmar qui avait fait allégeance à l'imposteur Tile Kolup
+* 1287 Rodolphe de Habsbourg assiège le chateau de Ribeaupierre
 * 1289 Siège du chateau de Girsberg par Conrad de Lichtenberg Evèque de Strasbourg
 * 1290 Fin de la guerre entre les Lichtenberg et la Lorraine dans le val de lièpvre
 * 1290-1291 Siège du chateau de Gigersbourg par Colmar
@@ -99,6 +101,7 @@
 * 1389 Brumath incendiée par Strasbourg et Haguenau
 * 1390 Siège du chateau du Kagenfels
 * 1391 Le comte de Deux-Ponts-Bitche occupe Menschhoffen
+* 1392 Le préfet imperial et Brunon de Ribeaupierre attaquent Strasbourg. Eckbolsheim et Hausbergen sont brulés.
 * 1397 Siège du chateau du Kagenfels
 * 1406 Siège du chateau de Hagelschloss
 * 1407 Les comtes de Saarwerden, Saarbrücken et Salm combattent en commun le duc de Lorraine et l’évêque de Metz.
